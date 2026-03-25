@@ -1,4 +1,4 @@
-# LLM4HRC: Large Language Model for Human-Robot Collaboration in Care Homes
+# LLM4HRC: Hybrid Architecture for Human-Robot Collaboration in Care Homes
 
 ## Overview
 LLM4HRC is a Python-based project designed to facilitate human-robot collaboration in care homes. It leverages advanced language models to assist patients with their daily activities, ensuring personalized and ethical interactions. The system integrates task planning, progress monitoring, and knowledge management to provide a comprehensive solution for patient care.
